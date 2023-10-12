@@ -1,4 +1,4 @@
-#include "3-calc.h"
+#include "calc.h"
 
 /**
  * op_add - Returns the sum of a and b
