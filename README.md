@@ -10,7 +10,7 @@ It is created in four different files
 
 This is the command to compile the code
 
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-func.c 3-functions.c 3-get__func.c -o calculate
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 func.c functions.c get_func.c -o calculate
 
 After compilation examples
 
@@ -34,5 +34,4 @@ Error
 
 ./calculate 1024 '%' 98
 44
-
 
