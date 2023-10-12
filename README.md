@@ -1,4 +1,4 @@
-This is a Normal Calculator that is able to do:
+This is a Basic Calculator that is able to do:
 
 +: addition
 -: subtraction
@@ -35,3 +35,4 @@ Error
 ./calculate 1024 '%' 98
 44
 
+This a Basic Calculator
